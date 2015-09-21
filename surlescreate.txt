@@ -1,0 +1,31 @@
+<markup><!--
+--><span size="50000">THUNDER COOKIES</span>
+-->  SCIENCE <!--
+--> <big>having fun <big>when everyone <big>is confused</big></big></big>
+
+Colors:<!--
+--> <span fgcolor="blue">red</span><!--
+--> <span fgcolor="red">blue</span><!--
+--> -- <!--
+--> <span bgcolor="black">thirty two</span><!--
+--> <span bgcolor="OrangeRed">seven</span><!--
+--> -- <!--
+--> <span underline_color="OrangeRed"><u>the moon is evil</u></span><!--
+--> <span strikethrough_color="grey"><s>I done goofed</s></span>
+--> <s>wind</s><!--
+--> <s>earth</s><!--
+--> <s>water</s><!--
+--> <s>fire</s><!--
+--> <s>wood</s>
+
+<sup>super</sup>--normal--<sub>sup</sub>
+
+<span rise="11111">SMALLER</span><!--
+--><span rise="20000">SMALLEST</span><!--
+--><span rise="10000">SMALL</span><!--
+-->-<!--
+--><span rise="-10000">BIGGEST</span><!--
+--><span rise="-20000">BIGGER</span><!--
+--><span rise="-10000">BIG</span><!--
+-->---</markup>
+
