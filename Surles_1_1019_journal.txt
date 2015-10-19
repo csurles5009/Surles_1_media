@@ -1,0 +1,2 @@
+useing for loop can creat "beats" in music instead of just simple loops
+
