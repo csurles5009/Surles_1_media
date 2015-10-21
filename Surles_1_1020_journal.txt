@@ -1,0 +1,6 @@
+beat are the sound coming in within intervals of 4
+we will use beats to make the music
+variable is something that can change 
+but having a variable can make that sounds fluctuate at seemingly random intervals
+
+numbers
