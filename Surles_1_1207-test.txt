@@ -1,0 +1,4 @@
+Any commands that involves basic directing of the terminal such as 
+changeing directory(cd), making a text file(pico),etc.
+We will probably be asked to show of our pango skills as well as our music and
+sound skills.
