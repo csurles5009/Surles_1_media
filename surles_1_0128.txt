@@ -1,0 +1,9 @@
+muscle sensor:by using the muscle sensor you can have the pi determine pressure and wight
+infrared camera: have the camera take cool shots when the proximety activates 
+gesture sensor:have lights come on when you near the pi
+Soil moisture sensor: vae the pi tell you when the plant was last watered
+pH tester: have the pi tell you the pH of various foods
+infinity mirror clock:because I like the aesthics
+Cast chess set:because i like chess
+
+
